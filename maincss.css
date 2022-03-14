@@ -110,8 +110,8 @@ nav {
     overflow: hidden;
     position: fixed;
     bottom: 40px;
-    width: 7.85%;
-    padding: 4px;
+    width: 11.85%;
+    padding: 15px;
     z-index: 100;
    transform: translate(80%);
    
